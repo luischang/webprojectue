@@ -1,0 +1,11 @@
+console.log("  A     RRRR   RRRR   II   BBBBB   A    ");
+console.log(" A A    R   R  R   R  II   B    B  A A   ");
+console.log("A   A   RRRR   RRRR   II   BBBBB  A   A  ");
+console.log("AAAAA   R  R   R  R   II   B    B AAAAA  ");
+console.log("A   A   R   R  R   R  II   BBBBB  A   A  ");
+console.log("                                        ");
+console.log("  P P   EEEE   RRRR   U   U              ");
+console.log("  P P   E      R   R  U   U              ");
+console.log("  PPPP  EEEE   RRRR   U   U              ");
+console.log("  P     E      R  R   U   U              ");
+console.log("  P     EEEE   R   R   UUU               ");
